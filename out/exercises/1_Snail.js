@@ -6,4 +6,4 @@ function totalDistance(height, lenght, tHeight) {
 }
 exports.totalDistance = totalDistance;
 ;
-//# sourceMappingURL=Snail.js.map
+//# sourceMappingURL=1_Snail.js.map
